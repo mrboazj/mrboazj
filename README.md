@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Boaz 👋
 
-<!--
-**mrboazj/mrboazj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Engineer focused on building data-driven financial systems.
 
-Here are some ideas to get you started:
+## What I’m working on
+- Building **QuickDebit** — an AI-driven debit order orchestration platform
+- Designing data pipelines for financial transactions
+- Developing retry optimisation and risk analytics systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Focus
+- Data Engineering
+- Financial systems and transaction processing
+- Data modelling and multi-tenant architectures
+- API integrations and orchestration workflows
+
+## Tech Stack
+Python | SQL | MongoDB | APIs | Data Pipelines | Azure
+
+## Featured Projects
+- QuickDebit Case Study
+- Data Pipeline Demo
+- Payment Risk Analytics
