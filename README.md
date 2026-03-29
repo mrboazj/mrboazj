@@ -20,3 +20,4 @@ Python | SQL | MongoDB | APIs | Data Pipelines | Azure
 - QuickDebit Case Study
 - Data Pipeline Demo
 - Payment Risk Analytics
+- Machine Learning Risk Engines
